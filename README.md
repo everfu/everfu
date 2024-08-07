@@ -7,3 +7,8 @@
     <a href="https://everfu.org/sponsor">sponsor</a>
   </samp>
 </p>
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
