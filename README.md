@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           6 hrs 35 mins   ██████████▓░░░░░░░░░░░░░░   42.94 %
-Stylus         2 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.41 %
-Markdown       1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-JavaScript     1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Other          58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+YAML           6 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   31.36 %
+Stylus         3 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+JavaScript     3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+TypeScript     2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Markdown       1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
 ```
 
 <!--END_SECTION:waka-->
