@@ -1,10 +1,10 @@
 <p align="center">
   <samp>
-    <a href="https://everfu.org">me</a> .
-    <a href="https://everfu.org/blog">blog</a> .
-    <a href="https://everfu.org/github">projects</a> .
+    <a href="https://everfu.cn">me</a> .
+    <a href="https://bloh.everfu.cn">blog</a> .
+    <a href="https://everfu.cn/projects/">projects</a> .
     <a href="https://twitter.com/everfu8">tweets</a> .
-    <a href="https://everfu.org/sponsor">sponsor</a>
+    <a href="https://ko-fi.com/everfu">sponsor</a>
   </samp>
 </p>
 
