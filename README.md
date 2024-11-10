@@ -43,5 +43,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Solitude 创建日历侧边栏卡片](https://blog.everfu.cn/p/874ddadb.html)
+- [OHTTPS 证书新体验](https://blog.everfu.cn/p/b8011a81.html)
+- [Solitude 自定义页面教程](https://blog.everfu.cn/p/a9d5ace8.html)
+- [Solitude 自定义侧边栏](https://blog.everfu.cn/p/c63b9f20.html)
+- [Mac 修复某些原因后无网络](https://blog.everfu.cn/p/dafc510c.html)
 <!-- BLOG-POST-LIST:END -->
