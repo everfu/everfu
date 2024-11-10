@@ -10,6 +10,14 @@
 
 ---
 
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=everfu&show_icons=true&theme=radical" alt="everfu" />
+</p>
+
+## 📊 Weekly Development Breakdown
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,3 +29,19 @@ TypeScript   51 mins         ██░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+## Support me
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://ko-fi.com/everfu">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" />
+</a>
+
+[爱发电](https://afdian.com/a/everfu)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
