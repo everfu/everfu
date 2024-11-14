@@ -10,13 +10,17 @@
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=everfu&show_icons=true&theme=radical" alt="everfu" />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=everfu&repo=hexo-theme-solitude)](https://github.com/everfu/hexo-theme-solitude)
+
 </p>
 
 ## 📊 Weekly Development Breakdown
+
+[![wakatime](https://wakatime.com/badge/user/0fcef314-a9cd-4509-9880-5cdb2158a775.svg)](https://wakatime.com/@0fcef314-a9cd-4509-9880-5cdb2158a775)
 
 <!--START_SECTION:waka-->
 
