@@ -43,9 +43,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [解决 Nginx 强制跳转 HTTPS 配置与 Cloudflare 使用后出现的 ERR_TOO_MANY_REDIRECTS 问题](https://blog.everfu.cn/p/b62940d6.html)
 - [为你的网站增加一个漂亮的今日热门侧边栏，让访客一眼看到今日最热内容](https://blog.everfu.cn/p/f86654a0.html)
 - [Solitude 创建日历侧边栏卡片](https://blog.everfu.cn/p/874ddadb.html)
 - [OHTTPS 证书新体验](https://blog.everfu.cn/p/b8011a81.html)
 - [Solitude 自定义页面教程](https://blog.everfu.cn/p/a9d5ace8.html)
-- [Solitude 自定义侧边栏](https://blog.everfu.cn/p/c63b9f20.html)
 <!-- BLOG-POST-LIST:END -->
