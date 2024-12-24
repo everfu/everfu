@@ -13,12 +13,13 @@
 [![wakatime](https://wakatime.com/badge/user/0fcef314-a9cd-4509-9880-5cdb2158a775.svg)](https://wakatime.com/@0fcef314-a9cd-4509-9880-5cdb2158a775)
 
 <!--START_SECTION:waka-->
+
 ```txt
-TypeScript    1 hr 15 mins    █████████▓░░░░░░░░░░░░░░░   39.29 %
-Markdown      25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Pug           23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-HTML          12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Other         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+TypeScript    1 hr 15 mins    ███████▓░░░░░░░░░░░░░░░░░   30.02 %
+HTML          52 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+Markdown      36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+Pug           23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Other         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
 ```
 
 <!--END_SECTION:waka-->
