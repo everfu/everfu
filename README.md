@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go               25 mins         ████████████████████░░░░░   80.41 %
+Markdown         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+go.mod           2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
