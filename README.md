@@ -32,7 +32,7 @@ A beautiful, customizable Hexo theme designed for solitude and clarity.
 
 - 🌍 Website: [efu.me](https://efu.me)
 - 🐦 Twitter: [@everfu8](https://twitter.com/everfu8)
-- 🎥 Bilibili: [@everfu](https://space.bilibili.com/1329819902)
+- 🎥 Bilibili: [@清酒铺子](https://space.bilibili.com/1329819902)
 - 📧 Email: [@everfu](mailto:o@efu.me)
 
 ---
