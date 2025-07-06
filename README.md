@@ -26,8 +26,6 @@
 **[@everfu/hexo-theme-solitude](https://github.com/everfu/hexo-theme-solitude)**  
 A beautiful, customizable Hexo theme designed for solitude and clarity.
 
-<br clear="left">
-
 ---
 
 ## 🌐 Connect
