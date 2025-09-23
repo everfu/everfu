@@ -44,11 +44,11 @@ A beautiful, customizable Hexo theme designed for solitude and clarity.
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js              6 hrs 20 mins   █████████▓░░░░░░░░░░░░░░░   38.63 %
-Kotlin              3 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-JSON                2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-TypeScript          1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Python              55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Vue.js       6 hrs 24 mins   ███████████▓░░░░░░░░░░░░░   46.93 %
+JSON         2 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+TypeScript   1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Python       54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Markdown     49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
 ```
 
 <!--END_SECTION:waka-->
