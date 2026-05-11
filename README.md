@@ -4,8 +4,7 @@ Everfu (伍拾柒) 👋
 Crafting pixel-perfect solutions and continuous learning.
 
 $ echo $INFO
-🏢 @jr-jx
-📍 JiangXi
+📍 China
 🌐 www.efu.me
 
 $ rank
