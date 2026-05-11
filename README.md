@@ -19,9 +19,9 @@ $ rank
 <p align="center">
   <a href="https://github.com/everfu">
     <picture decoding="async" loading="lazy">
-      <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=everfu&theme=summer&screen_effect=true">
-      <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=everfu&theme=rainbow&screen_effect=true">
-      <img alt="Everfu's GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=everfu&theme=rainbow&screen_effect=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-profile.vercel.app/api?username=everfu">
+      <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-profile.vercel.app/api?username=everfu">
+      <img alt="Everfu's GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=everfu" />
     </picture>
   </a>
 </p>
