@@ -1,7 +1,19 @@
-<h1 align="center">Hi, I'm Everfu (伍拾柒) 👋</h1>
+```bash
+$ whoami
+Everfu (伍拾柒) 👋
+Crafting pixel-perfect solutions and continuous learning.
+
+$ echo $INFO
+🏢 @jr-jx
+📍 JiangXi
+🌐 www.efu.me
+
+$ rank
+██████████ S
+```
 
 <p align="center">
-  <em>山不转路，我自转山。 | Only by facing the wind can a kite soar higher.</em>
+  「<strong><samp> 山不转路，我自转山。 | Only by facing the wind can a kite soar higher. </samp></strong>」
 </p>
 
 <p align="center">
@@ -13,13 +25,6 @@
     </picture>
   </a>
 </p>
-
-### 👾 About Me
-
-- 🏢 **Company**: @jr-jx
-- 📍 **Location**: JiangXi
-- 🌐 **Blog**: [www.efu.me](https://www.efu.me)
-- 🚀 **Mission**: Crafting pixel-perfect solutions and continuous learning.
 
 <br>
 
