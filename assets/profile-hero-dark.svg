@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Everfu profile poster</title>
+  <desc id="desc">A monochrome Swiss-style poster with an abstract mountain route, the name Everfu, profile number 57, and the motto 山不转路，我自转山。</desc>
+
+  <g fill="none" stroke="#343434" stroke-width="1">
+    <path d="M56 80H1144M56 424H1144"/>
+    <path d="M320 32V488M592 32V488M864 32V488" stroke-dasharray="2 8"/>
+  </g>
+
+  <g fill="#a7a7a7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.5">
+    <text x="56" y="56">PROFILE / 2026</text>
+    <text x="416" y="56">OPEN SOURCE / WEB / DESIGN</text>
+    <text x="1144" y="56" text-anchor="end">CN · UTC+08</text>
+  </g>
+
+  <g fill="#f2f2f2" font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="172" font-size="78" font-weight="700" letter-spacing="-3">EVERFU</text>
+    <text x="60" y="218" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="600" letter-spacing="9">伍拾柒</text>
+  </g>
+
+  <path d="M56 242H264" fill="none" stroke="#f2f2f2" stroke-width="3"/>
+
+  <g fill="#f2f2f2" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="34" font-weight="500">
+    <text x="56" y="304">山不转路，</text>
+    <text x="56" y="350">我自转山。</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M320 408L448 296L520 350L674 158L800 286L886 220L1144 408" stroke="#f2f2f2" stroke-width="3"/>
+    <path d="M320 424L458 330L530 374L676 216L798 326L894 270L1144 424" stroke="#8a8a8a" stroke-width="1.5"/>
+    <path d="M340 398C430 374 484 402 556 350C628 298 654 250 724 250C808 250 826 346 906 334C978 324 1026 282 1126 376" stroke="#a7a7a7" stroke-width="1.5" stroke-dasharray="6 10"/>
+  </g>
+
+  <g fill="#0d1117" stroke="#f2f2f2" stroke-width="2">
+    <circle cx="448" cy="296" r="6"/>
+    <circle cx="674" cy="158" r="7"/>
+    <circle cx="886" cy="220" r="6"/>
+  </g>
+
+  <g fill="#a7a7a7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1">
+    <text x="430" y="278">N.01</text>
+    <text x="652" y="132">RIDGE / 02</text>
+    <text x="900" y="204">N.03</text>
+    <text x="1038" y="392">ROUTE / 57</text>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="476" fill="none" stroke="#f2f2f2" stroke-width="1.5" font-size="104" font-weight="700" letter-spacing="-5">57</text>
+    <text x="184" y="452" fill="#f2f2f2" font-size="18" font-weight="700" letter-spacing="2">/ PROFILE</text>
+    <text x="184" y="478" fill="#a7a7a7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1">MAKE THE PATH MOVE.</text>
+  </g>
+
+  <g fill="#a7a7a7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1">
+    <text x="1144" y="454" text-anchor="end">ALT / 057</text>
+    <text x="1144" y="478" text-anchor="end">EVERFU.ME</text>
+  </g>
+</svg>
